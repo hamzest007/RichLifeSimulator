@@ -59,4 +59,4 @@ bundle exec pod install --project-directory=ios
 
 ## Project status
 
-This is a private, local-first game prototype. It uses fictional in-game assets and does not connect to real-money financial services.
+This is a public, local-first game prototype. It uses fictional in-game assets and does not connect to real-money financial services.
